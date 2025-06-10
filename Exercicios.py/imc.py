@@ -16,4 +16,4 @@ elif imc < 34.9:
 elif imc < 39.9:
     print("Obesidade grau 2")
 else:
-    print("Obesidao")
+    print("Obesidade")
